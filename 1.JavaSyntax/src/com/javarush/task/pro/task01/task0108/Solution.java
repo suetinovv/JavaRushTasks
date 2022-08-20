@@ -1,4 +1,4 @@
-package com.javarush.task.task01.task0108;
+package com.javarush.task.pro.task01.task0108;
 
 /* 
 2 + 3 = 5

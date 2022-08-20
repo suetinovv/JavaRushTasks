@@ -1,4 +1,4 @@
-package com.javarush.task.task01.task0103;
+package com.javarush.task.pro.task01.task0103;
 
 /* 
 Мой юный друг

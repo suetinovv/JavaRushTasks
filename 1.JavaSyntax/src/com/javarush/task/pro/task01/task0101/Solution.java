@@ -1,4 +1,4 @@
-package com.javarush.task.task01.task0101;
+package com.javarush.task.pro.task01.task0101;
 
 /* 
 Я думаю, быть программистом круто
