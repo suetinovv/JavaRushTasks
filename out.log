@@ -10258,3 +10258,121 @@ java.lang.StringIndexOutOfBoundsException: String index out of range: -1
 2022-08-22 20:02:01 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task12/task1212
 2022-08-22 20:06:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
 2022-08-22 20:06:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:09:10 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:09:11 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:09:14 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:09:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:09:45 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:09:47 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:09:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:09:53 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:09:57 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:10:03 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:10:03 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:10:30 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:14:35 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:14:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:19:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:19:23 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:19:26 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:19:31 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:19:31 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task15/task1504
+2022-08-22 21:19:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:19:37 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:19:41 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:19:41 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task15/task1507
+2022-08-22 21:19:41 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:19:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:19:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:19:51 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:19:51 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task15/task1511
+2022-08-22 21:19:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:19:56 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:20:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:20:00 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task15/task1512
+2022-08-22 21:20:00 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:20:04 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:20:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:20:10 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:20:10 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task15/task1515
+2022-08-22 21:20:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:20:19 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:22:54 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:26:27 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:26:28 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:26:32 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:26:35 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:27:11 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:27:11 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:27:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:27:14 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1604
+2022-08-22 21:27:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:27:44 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:27:46 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:27:46 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1605
+2022-08-22 21:27:46 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:28:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:28:26 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:28:29 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:28:29 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1606
+2022-08-22 21:28:29 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:28:38 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:28:39 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:28:43 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:28:43 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1607
+2022-08-22 21:29:05 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:29:05 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:29:09 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:29:09 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1608
+2022-08-22 21:29:20 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:29:21 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:29:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:29:24 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1609
+2022-08-22 21:29:30 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:29:31 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:29:36 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:29:36 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1610
+2022-08-22 21:29:45 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:29:46 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:29:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:29:49 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1611
+2022-08-22 21:29:57 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:29:58 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:30:06 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:30:06 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1612
+2022-08-22 21:30:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:30:20 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:30:24 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:30:24 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1613
+2022-08-22 21:30:43 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:30:44 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:30:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:30:49 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1614
+2022-08-22 21:31:09 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:31:09 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:31:17 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:31:17 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1615
+2022-08-22 21:31:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:31:48 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:31:54 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:31:54 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1616
+2022-08-22 21:32:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:32:06 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:32:14 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:32:15 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1617
+2022-08-22 21:32:22 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:32:22 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:32:32 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:32:32 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1618
+2022-08-22 21:32:40 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:32:41 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:32:45 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:32:45 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1619
+2022-08-22 21:32:53 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:32:54 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:32:57 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:32:57 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1620
+2022-08-22 21:33:06 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-08-22 21:33:07 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-08-22 21:33:10 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-08-22 21:33:10 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :C:/Users/nikal/OneDrive/Рабочий стол/Java/JavaRushTasks/1.JavaSyntax/src/com/javarush/task/pro/task16/task1621
